@@ -1,0 +1,11 @@
+{
+  "componentname": "ui.s2p.mm.pur.ctr.maintain.sts1",
+  "safeMode": false,
+  "appvariant": "zcprstadapt",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "BTP_HTTP",
+  "isOVPApp": false,
+  "isFioriElement": true,
+  "environment": "ABAP",
+  "ui5Version": "1.84.39"
+}
