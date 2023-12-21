@@ -1,0 +1,89 @@
+[
+    {
+      "Product ID": "P001",
+      "Product Name": "Laptop",
+      "Supplier": "TechWorld",
+      "Dimensions": "13.5\" x 9.8\"",
+      "Weight": "2.5 lbs",
+      "Price": "$899.99"
+    },
+    {
+      "Product ID": "P002",
+      "Product Name": "Smart TV",
+      "Supplier": "VisionTech",
+      "Dimensions": "55\" x 32\"",
+      "Weight": "40 lbs",
+      "Price": "$699.99"
+    },
+    {
+      "Product ID": "P003",
+      "Product Name": "Coffee Maker",
+      "Supplier": "HomeGoods",
+      "Dimensions": "10\" x 8\"",
+      "Weight": "5 lbs",
+      "Price": "$49.99"
+    },
+    {
+      "Product ID": "P004",
+      "Product Name": "Bluetooth Headphones",
+      "Supplier": "AudioHub",
+      "Dimensions": "N/A",
+      "Weight": "0.5 lbs",
+      "Price": "$79.99"
+    },
+    {
+      "Product ID": "P005",
+      "Product Name": "Fitness Tracker",
+      "Supplier": "HealthGuru",
+      "Dimensions": "1.2\" x 0.8\"",
+      "Weight": "0.2 lbs",
+      "Price": "$129.99"
+    },
+    {
+      "Product ID": "P006",
+      "Product Name": "Backpack",
+      "Supplier": "OutdoorGear",
+      "Dimensions": "18\" x 12\"",
+      "Weight": "1.5 lbs",
+      "Price": "$39.99"
+    },
+    {
+      "Product ID": "P007",
+      "Product Name": "Desk Lamp",
+      "Supplier": "BrightIdeas",
+      "Dimensions": "15\" x 5\"",
+      "Weight": "2 lbs",
+      "Price": "$29.99"
+    },
+    {
+      "Product ID": "P008",
+      "Product Name": "Blender",
+      "Supplier": "KitchenPro",
+      "Dimensions": "12\" x 8\"",
+      "Weight": "7 lbs",
+      "Price": "$69.99"
+    },
+    {
+      "Product ID": "P009",
+      "Product Name": "Digital Camera",
+      "Supplier": "PhotoTech",
+      "Dimensions": "4\" x 3\"",
+      "Weight": "0.8 lbs",
+      "Price": "$299.99"
+    },
+    {
+      "Product ID": "P010",
+      "Product Name": "Microwave Oven",
+      "Supplier": "HomeAppliances",
+      "Dimensions": "20\" x 15\"",
+      "Weight": "35 lbs",
+      "Price": "$129.99"
+    }
+  ]
+  
+  
+  
+  
+  
+  
+  
